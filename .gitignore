@@ -1,6 +1,6 @@
 __init__.py
 
-/__pychache__/*
+__pychache__
 
 angle_correct.py
 
